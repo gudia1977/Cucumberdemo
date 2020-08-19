@@ -13,7 +13,7 @@ public class LoginSteps {
 
 	@When("User enter username  and pwd")
 	public void user_enter_username_and_pwd() {
-		System.out.println("user enter uname and pwd");
+		System.out.println("user has to enter uname and pwd");
 	}
 
 	@And("User click on login button")
